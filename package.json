@@ -1,0 +1,28 @@
+{
+    "name": "whatsapp-status-bot",
+    "version": "1.0.0",
+    "description": "A chatbot for WhatsApp using Twilio and OpenAI to provide customer support.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^1.0.0",
+      "body-parser": "^1.20.2",
+      "express": "^4.18.2",
+      "openai": "4.87.3",
+      "dotenv": "^16.3.1",
+      "twilio": "^4.12.0",
+      "ioredis": "^5.3.1",
+      "@pinecone-database/pinecone": "^2.0.0"
+    },
+    "keywords": [
+      "whatsapp",
+      "twilio",
+      "openai",
+      "chatbot",
+      "application-status"
+    ],
+    "author": "Your Name",
+    "license": "MIT"
+}

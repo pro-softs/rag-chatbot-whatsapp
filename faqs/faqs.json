@@ -1,0 +1,52 @@
+[
+  {
+    "id": "faq_1",
+    "question": "How can I open a new bank account?",
+    "answer": "You can open a new bank account online through our website or by visiting any of our branches with valid identification and proof of address."
+  },
+  {
+    "id": "faq_2",
+    "question": "What documents are required to apply for a loan?",
+    "answer": "To apply for a loan, you need a valid ID, proof of income, bank statements, and address proof. Additional documents may be required depending on the loan type."
+  },
+  {
+    "id": "faq_3",
+    "question": "How do I check my account balance?",
+    "answer": "You can check your account balance via our mobile app, internet banking, or by calling our customer service helpline."
+  },
+  {
+    "id": "faq_4",
+    "question": "What should I do if I forget my online banking password?",
+    "answer": "If you forget your online banking password, click on 'Forgot Password' on the login page and follow the steps to reset it. You may need access to your registered email or phone number."
+  },
+  {
+    "id": "faq_5",
+    "question": "How can I block my lost or stolen debit card?",
+    "answer": "To block your lost or stolen debit card, use our mobile app, call our 24/7 helpline, or visit your nearest bank branch."
+  },
+  {
+    "id": "faq_6",
+    "question": "What are the charges for international transactions?",
+    "answer": "International transactions may be subject to foreign exchange conversion rates and additional processing fees. Please check our website or contact customer service for details."
+  },
+  {
+    "id": "faq_7",
+    "question": "How do I set up automatic bill payments?",
+    "answer": "You can set up automatic bill payments via our online banking portal or mobile app under the 'Bill Payments' section."
+  },
+  {
+    "id": "faq_8",
+    "question": "What is the minimum balance requirement for a savings account?",
+    "answer": "The minimum balance requirement varies depending on the type of savings account. Please check our website or visit a branch for details."
+  },
+  {
+    "id": "faq_9",
+    "question": "How long does it take for a wire transfer to process?",
+    "answer": "Domestic wire transfers typically take 1-2 business days, while international transfers may take 3-5 business days depending on the receiving bank."
+  },
+  {
+    "id": "faq_10",
+    "question": "Can I apply for a credit card online?",
+    "answer": "Yes, you can apply for a credit card online by filling out an application form on our website. Approval is subject to eligibility and credit checks."
+  }
+]
